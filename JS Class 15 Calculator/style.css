@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid black;
+    width: 15%;
+    margin: 0 auto;
+}
+
+.result{
+    width: 96%;
+    background-color: antiquewhite;
+    color: blue;
+}
+
+.clearbtn{
+    width: 100%;
+    background-color: antiquewhite;
+    margin-top: 10px;
+}
+
+.btn{
+    width: 40px;
+    margin: 3.5px;
+    background-color: antiquewhite;
+}
+
+.btntwo{
+    width: 91px;
+    margin: 3.5px;
+    background-color: antiquewhite;
+}
