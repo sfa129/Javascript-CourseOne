@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    background-color: white;
+    color: black;
+    width: 100px;
+    display: inline-block;
+}
