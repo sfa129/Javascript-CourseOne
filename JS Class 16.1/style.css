@@ -1,0 +1,18 @@
+.big{
+    width: 150px;
+    height: 150px;
+}
+
+.small{
+    width: 100px;
+    height: 100px;
+}
+
+.styleofimage{
+    font-weight: bold;
+    font-style: italic;    
+}
+
+.colr{
+    color: blue;
+}
