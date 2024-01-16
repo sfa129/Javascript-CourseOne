@@ -1,0 +1,11 @@
+.btn:hover{
+    color: blue;
+}
+
+.btn:focus{
+    color: green;
+}
+
+.blue{
+    color: red;
+}
