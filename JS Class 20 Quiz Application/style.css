@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(199, 246, 105);
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+div{
+    border: 10px solid green;
+    border-radius: 40px;
+}
+.btn{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin: 2% 50% 0% 50%;
+}
